@@ -1,0 +1,10 @@
+body {
+ background-image: url("Img/Tulpenveld.jpeg");
+ background-color: #cccccc;
+}
+input {
+    background:rgba(0,0,0,0);
+    border:none;
+  width: 100%;
+  height: 100%;
+}
